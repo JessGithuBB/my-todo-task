@@ -1,0 +1,9 @@
+.btn-violet-clair {
+  background-color: #8a2be2; /* Couleur violet clair */
+  color: white;
+  border: none;
+}
+
+.btn-violet-clair:hover {
+  background-color: #7a1bcb; /* Un peu plus foncé au survol */
+}
